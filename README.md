@@ -12,6 +12,7 @@ Certifications:
 AWS Generative AI Practitioner, Machine Learning, AWS Cloud Practitioner.
 
 What I Do:
+
 Develop and deploy scalable machine learning models.
 
 Architect end-to-end data pipelines and analytics solutions.
