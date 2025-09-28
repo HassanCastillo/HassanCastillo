@@ -1,9 +1,11 @@
 Hi, I'm Hassan Hammed
 
-Welcome to my GitHub profile! I'm an AI & Data professional with experience in leveraging Machine Learning, and Generative AI to solve problems. My passion lies in building impactful solutions, and sharing knowledge with the community.
+🚀 AI & Cloud Computing Professional | Data Analyst | Machine Learning Enthusiast
+
+Welcome to my GitHub profile! I’m a passionate Artificial Intelligence and Cloud Computing professional with a strong background in Data Analysis, Machine Learning, Generative AI and Cloud-based solutions. My passion lies in building impactful solutions, and sharing knowledge with the community.
 
 Background:
-Machine Learning | Generative AI | Cloud Computing | CCNA | Computer Science
+Machine Learning | Generative AI | Cloud Computing | CCNA | Project management | Computer Science
 
 Tech Stack:
 Python, SQL, TensorFlow, PyTorch, Scikit-learn, Git
